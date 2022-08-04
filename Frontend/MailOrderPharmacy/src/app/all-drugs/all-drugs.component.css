@@ -1,0 +1,15 @@
+
+table{
+
+    border-color: black;
+    /* border-width: 2; */
+}
+td,th{
+    text-align: center;
+}
+thead{
+    font-size: x-large;
+}
+tbody{
+    font-weight:700;
+}

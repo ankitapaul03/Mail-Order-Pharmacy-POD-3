@@ -1,0 +1,12 @@
+
+a{
+    color: beige;
+    font-weight: bold;
+}
+.nav-link:hover { color:#2f3033;}
+.logout{
+    margin-left: 250px;
+    background:white;
+}
+
+

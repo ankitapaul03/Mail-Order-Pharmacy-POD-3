@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+}
+
+h2,h3{
+    text-align: center;
+}
+.form{
+    margin-top: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+
+label{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight:700
+    
+}
+.message{
+    color: green;
+}

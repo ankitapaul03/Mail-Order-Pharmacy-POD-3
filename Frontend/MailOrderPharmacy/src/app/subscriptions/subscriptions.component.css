@@ -1,0 +1,14 @@
+
+
+table {
+    border-color: black;
+}
+td,th{
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+}
+p{
+    font-weight: 600;
+    }

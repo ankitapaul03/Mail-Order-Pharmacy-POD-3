@@ -1,0 +1,51 @@
+<h2>Subscribe</h2>
+<h3>Prescription details</h3>
+
+<form (ngSubmit)='handleSubmit()'  ngNativeValidate>
+    <div class="form-group form">
+       
+        <label>Insurance Provider</label>
+        <select class="form-control" name="iprovider" [(ngModel)]='prescriptionDetails.insuranceProvider' id="iprovider">
+            <option value="">--Select Insurance Provider--</option>
+            <option *ngFor='let ins of insurances' value={{ins}}>{{ins}}</option>
+        </select>
+
+        <label>Policy Number</label>
+        <input type="text" id="policyNum" name="policyNum" [(ngModel)]='prescriptionDetails.policyNumber' class="form-control" placeholder="Policy Number"  >
+
+        <label>Doctor Name</label>
+        <input type="text" id="dName" name="dName" [(ngModel)]='prescriptionDetails.doctorName' class="form-control" placeholder="Doctor name" pattern="^[a-zA-Z_ ]*$" required>
+
+        <label>Prescription Date</label>
+        <input type="date" id="pDate" name="pDate" [(ngModel)]='prescriptionDetails.prescriptionDate' class="form-control" placeholder="Prescription Date" max='2021-08-02' required>
+
+        <label>Location</label>
+        <select class="form-control" name="ecity" [(ngModel)]='prescriptionDetails.memberLocation' id="ecity">
+            <option value="">--Select City--</option>
+            <option *ngFor='let city of cities' value={{city}}>{{city}}</option>
+        </select>
+
+        <label>Medicine Name</label>
+        <select class="form-control" name="medicine" [(ngModel)]='prescriptionDetails.drugName' id="medicine">
+            <option value="">--Select Medicine--</option>
+            <option *ngFor='let med of meds' value={{med}}>{{med}}</option>
+        </select>
+        <label>Quantity</label>
+        <input type="number" id="qty" name="qty" [(ngModel)]='prescriptionDetails.quantity' class="form-control" placeholder="Quantity" min="1" required>
+
+        <label>Course Duration</label>
+        <input type="number" id="duration" name="duration" [(ngModel)]='prescriptionDetails.courseDuration' class="form-control" placeholder="Course Duration" min="2" required>
+
+
+        <br>
+        
+        <p align:right>
+            <button class="btn btn-success" type="submit">Submit</button>
+        </p>
+        <br>
+        
+
+    </div>
+</form>
+<p class="message" style="text-align: center;">{{msg}}</p>
+<br><br>

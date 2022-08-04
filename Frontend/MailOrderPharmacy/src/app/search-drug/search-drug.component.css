@@ -1,0 +1,32 @@
+p{
+    text-align: center;
+}
+.error{
+    color: red;
+}
+table{
+    border-color: black;
+}
+
+h2{
+    text-align: center;
+}
+.form{
+    margin-top: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+
+label{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight:700
+    
+}
+td,th{
+    text-align: center;
+}
+button{
+    text-align: center;
+}

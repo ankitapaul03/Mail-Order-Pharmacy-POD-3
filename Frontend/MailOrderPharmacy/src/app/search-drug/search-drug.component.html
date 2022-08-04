@@ -1,0 +1,56 @@
+<h2>Search Drugs</h2>
+
+<form (ngSubmit)='handleSubmitforID()' ngNativeValidate>
+    <div class="form-group form">
+        <label>Search Drug by ID</label>
+        <input type="text" class="form-control" name="id" placeholder="Enter Drug ID" pattern="[D]{1}[1-9]{1,3}"
+            [(ngModel)]='drugs.drugId' required>
+        <br>
+        <p align:right>
+            <button class="btn btn-success" type="submit">Search</button>
+        </p>
+    </div>
+</form>
+<form (ngSubmit)='handleSubmitforName()' ngNativeValidate>
+    <div class="form-group form">
+        <label>Search Drug by Name</label>
+        <input type="text" class="form-control" name="name" placeholder="Enter Drug Name" pattern="^[a-zA-Z_ ]*$"
+            [(ngModel)]='drug.drugName' required>
+        <br>
+        <p align:right>
+            <button class="btn btn-success" type="submit">Search</button>
+        </p>
+    </div>
+</form>
+<br>
+
+<div *ngIf="fetched">
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Drug Name</th>
+                <th>Manufactured By</th>
+                <th>Manufacture Date</th>
+                <th>Expiry Date</th>
+                <th>Locations - Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{this.drugs.drugName}}</td>
+                <td>{{this.drugs.manufacturer}}</td>
+                <td>{{this.drugs.manufactureDate | date : 'dd-MM-yyyy'}}</td>
+                <td>{{this.drugs.expiryDate | date : 'dd-MM-yyyy'}}</td>
+                <td>
+
+                    <p *ngFor='let loc of drugs.druglocationQuantities'> {{loc.location}} - {{loc.quantity}} </p>
+                   </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+</div>
+<p class="error">{{errorMsg}}</p>
+<br>
+<br>

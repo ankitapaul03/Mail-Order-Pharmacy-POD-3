@@ -1,0 +1,31 @@
+<h2 >Available Drugs</h2>
+<div>
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Drug ID</th>
+            <th >Drug Name</th>
+            <th >Manufactured By</th>
+            <th>Manufacture Date</th>
+            <th >Expiry Date</th>
+            <th>Location - Quantity</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        <tr *ngFor='let drug of drugs'>
+            <td>{{ drug.drugId }}</td>
+            <td>{{drug.drugName}}</td>
+            <td>{{drug.manufacturer}}</td>
+            <td>{{ drug.manufactureDate | date : 'dd-MM-yyyy'}}</td>
+            <td>{{drug.expiryDate | date : 'dd-MM-yyyy'}}</td>
+            
+            <td>
+
+             <p *ngFor='let loc of drug.druglocationQuantities'> {{loc.location}} - {{loc.quantity}} </p>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+</div>
+

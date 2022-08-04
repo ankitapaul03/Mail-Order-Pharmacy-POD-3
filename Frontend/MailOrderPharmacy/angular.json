@@ -1,0 +1,199 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "MailOrderPharmacy": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:application": {
+          "strict": true
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/MailOrderPharmacy",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kb",
+                  "maximumError": "1mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "2kb",
+                  "maximumError": "4kb"
+                }
+              ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "development": {
+              "buildOptimizer": false,
+              "optimization": false,
+              "vendorChunk": true,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "namedChunks": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "browserTarget": "MailOrderPharmacy:build:production"
+            },
+            "development": {
+              "browserTarget": "MailOrderPharmacy:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "MailOrderPharmacy:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "src/test.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.spec.json",
+            "karmaConfig": "karma.conf.js",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.css"
+            ],
+            "scripts": []
+          }
+        }
+      }
+    },
+    "drugs": {
+      "projectType": "library",
+      "root": "projects/drugs",
+      "sourceRoot": "projects/drugs/src",
+      "prefix": "drugs",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/drugs/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/drugs/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/drugs/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/drugs/src/test.ts",
+            "tsConfig": "projects/drugs/tsconfig.spec.json",
+            "karmaConfig": "projects/drugs/karma.conf.js"
+          }
+        }
+      }
+    },
+    "subscription": {
+      "projectType": "library",
+      "root": "projects/subscription",
+      "sourceRoot": "projects/subscription/src",
+      "prefix": "subscription",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/subscription/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/subscription/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/subscription/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/subscription/src/test.ts",
+            "tsConfig": "projects/subscription/tsconfig.spec.json",
+            "karmaConfig": "projects/subscription/karma.conf.js"
+          }
+        }
+      }
+    },
+    "refill": {
+      "projectType": "library",
+      "root": "projects/refill",
+      "sourceRoot": "projects/refill/src",
+      "prefix": "refill",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/refill/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/refill/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/refill/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/refill/src/test.ts",
+            "tsConfig": "projects/refill/tsconfig.spec.json",
+            "karmaConfig": "projects/refill/karma.conf.js"
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "MailOrderPharmacy"
+}

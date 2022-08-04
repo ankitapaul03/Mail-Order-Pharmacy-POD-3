@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mailorderpharmacy.drugservice.service.test.DrugDetailsServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.822 s - in com.mailorderpharmacy.drugservice.service.test.DrugDetailsServiceImplTest

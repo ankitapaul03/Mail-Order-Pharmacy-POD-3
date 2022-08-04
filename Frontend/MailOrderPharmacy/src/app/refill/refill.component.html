@@ -1,0 +1,24 @@
+<br>
+<h2>Adhoc Refill</h2>
+<form (ngSubmit)='handleSubmit()' ngNativeValidate>
+    <div class="form-group form">
+
+
+        <label>Quantity</label>
+        <input type="number" class="form-control" placeholder="Enter Quantity" name="quantity" min="1" max="10"
+            [(ngModel)]='refill.quantity' required>
+        <br>
+        <label>Location</label>
+        <select class="form-control" name="location" [(ngModel)]='refill.location' required>
+            <option value="">--Select City--</option>
+            <option *ngFor='let city of cities' value={{city}}>{{city}}</option>
+        </select>
+        <br>
+        <p align="right">
+            <button class="btn btn-success" type="submit">Request</button>
+        </p>
+
+
+    </div>
+</form>
+<p class="message">{{msg}}</p>

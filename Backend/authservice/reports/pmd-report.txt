@@ -1,0 +1,676 @@
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:7:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:7:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/AuthService.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:18:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:18:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:20:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the emsuserDetailsService field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the emsuserDetailsService field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like emsuserDetailsService
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:21:	LongVariable:	LongVariable: Avoid excessively long variable names like emsuserDetailsService
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dataSource field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the dataSource field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'auth' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'auth' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:36:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'web' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'web' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SecurityConfigurer.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/SwaggerConfig.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:42:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:42:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	LongVariable:	LongVariable: Avoid excessively long variable names like userlogincredentials
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	LongVariable:	LongVariable: Avoid excessively long variable names like userlogincredentials
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userlogincredentials' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userlogincredentials' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'uid' (lines '46'-'49').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'uid' (lines '46'-'49').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'uid' (lines '46'-'57').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'uid' (lines '46'-'57').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'uid' is never used (overwritten on line 49)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:46:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'uid' is never used (overwritten on line 49)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'generateToken' (lines '47'-'50').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'generateToken' (lines '47'-'50').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'generateToken' (lines '47'-'57').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'generateToken' (lines '47'-'57').
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'generateToken' is never used (overwritten on line 50)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:47:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'generateToken' is never used (overwritten on line 50)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:51:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:51:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:60:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:60:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'token1' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'token1' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'res' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'res' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:65:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/controller/AuthController.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/dao/UserDAO.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/dao/UserDAO.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/AuthResponse.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/Jwtreturn.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/Jwtreturn.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/Jwtreturn.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/Jwtreturn.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the message field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the message field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:19:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the date field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the date field if you want a default access modifier
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:23:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/entity/MessageResponse.java:23:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/entity/UserData.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'uid' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'uid' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:31:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:31:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'custuser' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'custuser' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:33:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:33:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:37:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:37:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:38:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/mailorderpharmacy/authservice/service/CustomerDetailsService.java:38:	PreserveStackTrace:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:30:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ex' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandling.java:42:	ShortVariable:	ShortVariable: Avoid variables with short names like ex
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	ImmutableField:	ImmutableField: Private field 'secretkey' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:19:	ImmutableField:	ImmutableField: Private field 'secretkey' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimsResolver' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimsResolver' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:57:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:57:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userDetails' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userDetails' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'claims' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'claims' could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:58:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:58:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claims' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claims' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:79:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:79:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:79:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:79:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:81:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:82:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:82:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:84:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/mailorderpharmacy/authservice/service/JwtUtil.java:84:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/mailorderpharmacy/authservice/service/UnauthorizedException.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the main method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the main method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:15:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:15:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:15:	UnnecessaryBooleanAssertion:	UnnecessaryBooleanAssertion: assertTrue(true) or similar statements are unnecessary
+src/test/java/com/mailorderpharmacy/authservice/AuthServiceTest.java:15:	UnnecessaryBooleanAssertion:	UnnecessaryBooleanAssertion: assertTrue(true) or similar statements are unnecessary
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:24:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:24:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:26:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:26:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authController field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authController field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the authResponse field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:29:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:31:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtutil field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtutil field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:36:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:36:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the custdetailservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the custdetailservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:39:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:39:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loginTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loginTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:45:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 13 times in this file; the first occurrence is on line 45
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:45:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 13 times in this file; the first occurrence is on line 45
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:45:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:46:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:46:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'value' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'value' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:48:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:49:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 5 times in this file; the first occurrence is on line 49
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:49:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "token" appears 5 times in this file; the first occurrence is on line 49
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:49:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'login' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:50:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'login' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:51:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:51:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:51:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:55:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loginTestFailed method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:55:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loginTestFailed method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:58:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:58:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'value' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'value' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:61:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'login' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'login' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:63:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:63:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:63:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:67:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTestValidtoken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:67:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTestValidtoken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:71:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:71:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:73:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:75:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:77:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:82:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTestInValidtoken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:82:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTestInValidtoken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:86:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:86:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:88:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:92:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testhealth method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:92:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testhealth method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'healthCheckup' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:93:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'healthCheckup' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:94:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:94:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/controller/AuthControllerTest.java:94:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:19:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:19:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testName method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testName method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsValid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsValid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:31:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:31:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:31:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/entity/AuthResponseTest.java:31:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the msg field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the msg field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the msg1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the msg1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testMsg method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testMsg method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:20:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:20:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDate method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDate method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'date' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/MessageResponseTest.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:11:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the auth1 field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:19:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:19:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testName method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testName method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:25:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsValid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsValid method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:31:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:31:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:35:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToken method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:41:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:42:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:43:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/entity/UserDataTest.java:43:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the customizedExceptionHandling field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the customizedExceptionHandling field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	LongVariable:	LongVariable: Avoid excessively long variable names like customizedExceptionHandling
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:15:	LongVariable:	LongVariable: Avoid excessively long variable names like customizedExceptionHandling
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:17:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the unauthorizedException field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the unauthorizedException field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	LongVariable:	LongVariable: Avoid excessively long variable names like unauthorizedException
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:18:	LongVariable:	LongVariable: Avoid excessively long variable names like unauthorizedException
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the handleUnauthorizedExceptionsTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:23:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the handleUnauthorizedExceptionsTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseEntity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseEntity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:26:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:26:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:26:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:26:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the handleNullPointerExceptions method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the handleNullPointerExceptions method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseEntity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'responseEntity' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:34:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:34:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/CustomizedExceptionHandlingTest.java:34:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:16:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:16:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:17:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:17:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:19:	UnusedImports:	UnusedImports: Avoid unused imports such as 'io.jsonwebtoken.Jwts'
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:19:	UnusedImports:	UnusedImports: Avoid unused imports such as 'io.jsonwebtoken.Jwts'
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:22:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtUtil field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the jwtUtil field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:30:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:33:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the customerDetailsService field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the customerDetailsService field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	LongVariable:	LongVariable: Avoid excessively long variable names like customerDetailsService
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:34:	LongVariable:	LongVariable: Avoid excessively long variable names like customerDetailsService
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the generateTokenTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:38:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the generateTokenTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:39:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 6 times in this file; the first occurrence is on line 39
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:39:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 6 times in this file; the first occurrence is on line 39
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:40:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:41:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:41:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:45:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTokenTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:45:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTokenTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:49:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:49:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:49:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:49:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:53:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTokenWithNameTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:53:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validateTokenWithNameTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'generateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'validateToken' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:57:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:57:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:57:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/service/JwUtilTest.java:57:	UseAssertTrueInsteadOfAssertEquals:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:16:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:16:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:20:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userdetails field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:22:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:24:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the custdetailservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the custdetailservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:27:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the userservice field if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loadUserByUsernameTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the loadUserByUsernameTest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 5 times in this file; the first occurrence is on line 33
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "admin" appears 5 times in this file; the first occurrence is on line 33
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'user1' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:35:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername2' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'loadUserByUsername2' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername2
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:36:	LongVariable:	LongVariable: Avoid excessively long variable names like loadUserByUsername2
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:37:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/ServiceTest.java:37:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:6:	UnusedImports:	UnusedImports: Avoid unused imports such as 'org.mockito.Mock'
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:6:	UnusedImports:	UnusedImports: Avoid unused imports such as 'org.mockito.Mock'
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:9:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:9:	ImportFromSamePackage:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the constructortest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the constructortest method if you want a default access modifier
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'unauthorizedException' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'unauthorizedException' could be declared final
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:19:	LongVariable:	LongVariable: Avoid excessively long variable names like unauthorizedException
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:19:	LongVariable:	LongVariable: Avoid excessively long variable names like unauthorizedException
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:21:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/mailorderpharmacy/authservice/service/UnauthorizedExceptionTest.java:21:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message

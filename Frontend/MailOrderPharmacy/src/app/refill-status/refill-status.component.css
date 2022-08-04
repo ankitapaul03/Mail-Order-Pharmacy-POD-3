@@ -1,0 +1,22 @@
+
+div{
+    margin-right: 300pt;
+    width:100%
+}
+
+p{
+    text-align: center;
+}
+.form{
+    margin-top: 40px;
+    margin-right: 500px;
+}
+.error{
+    color: red;
+}
+table{
+    border-color: black;
+}
+td,th{
+    text-align: center;
+}
